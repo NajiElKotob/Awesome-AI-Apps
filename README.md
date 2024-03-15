@@ -23,3 +23,6 @@ Try Runway for Free
 
 ## Neuroscience and Biotechnology
 * [Neuralink](https://neuralink.com) - neuralink.com
+
+## Fun
+* [This Person Does NOT Exist](https://thispersondoesnotexist.com/) - thispersondoesnotexist.com
