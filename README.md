@@ -16,5 +16,8 @@ Try Runway for Free
 ## Presentations
 * [Gamma](https://gamma.app/) - gamma.app | A new medium for presenting ideas. Powered by AI.
 
+## Software
+* [replit](https://replit.com/) - replit.com | Build software collaboratively with the power of AI, on any device, without spending a second on setup
+
 ## Neuroscience and Biotechnology
 * [Neuralink](https://neuralink.com) - neuralink.com
