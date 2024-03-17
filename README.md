@@ -15,7 +15,8 @@
 ## Images and Arts
 * [Imagine with Meta AI](https://imagine.meta.com) - imagine.meta.com
 * [Runway](https://runwayml.com) - runwayml.com | Runway is an applied AI research company shaping the next era of art, entertainment and human creativity.
-Try Runway for Free
+* [Adobe Firefly](https://www.adobe.com/products/firefly.html) - adobe.com | Your imagination’s new best friend.
+
   
 ## Presentations
 * [Gamma](https://gamma.app/) - gamma.app | A new medium for presenting ideas. Powered by AI.
