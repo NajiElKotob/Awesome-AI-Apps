@@ -17,6 +17,9 @@
 * [Runway](https://runwayml.com) - runwayml.com | Runway is an applied AI research company shaping the next era of art, entertainment and human creativity.
 * [Adobe Firefly](https://www.adobe.com/products/firefly.html) - adobe.com | Your imagination’s new best friend.
 
+## Videos from Text
+* [Sora](https://openai.com/sora) - openai.com | Sora is an AI model that can create realistic and imaginative scenes from text instructions.
+
   
 ## Presentations
 * [Gamma](https://gamma.app/) - gamma.app | A new medium for presenting ideas. Powered by AI.
