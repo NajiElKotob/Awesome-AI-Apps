@@ -30,5 +30,8 @@
 ## Neuroscience and Biotechnology
 * [Neuralink](https://neuralink.com) - neuralink.com
 
+## Tech
+* [Nvidia 2024 AI Event: Everything Revealed in 16 Minutes 📺 16min](https://www.youtube.com/watch?v=bMIRhOXAjYk) | Blackwell
+
 ## Fun
 * [This Person Does NOT Exist](https://thispersondoesnotexist.com/) - thispersondoesnotexist.com
