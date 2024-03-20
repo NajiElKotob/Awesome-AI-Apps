@@ -16,6 +16,7 @@
 * [Imagine with Meta AI](https://imagine.meta.com) - imagine.meta.com
 * [Runway](https://runwayml.com) - runwayml.com | Runway is an applied AI research company shaping the next era of art, entertainment and human creativity.
 * [Adobe Firefly](https://www.adobe.com/products/firefly.html) - adobe.com | Your imagination’s new best friend.
+* [NVIDIA Canvas](https://www.nvidia.com/en-me/studio/canvas/) - nvidia.com | Use AI to turn simple brushstrokes into realistic landscape images. 
 
 ## Videos from Text
 * [Sora](https://openai.com/sora) - openai.com | Sora is an AI model that can create realistic and imaginative scenes from text instructions.
@@ -35,3 +36,4 @@
 
 ## Fun
 * [This Person Does NOT Exist](https://thispersondoesnotexist.com/) - thispersondoesnotexist.com
+  
