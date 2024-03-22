@@ -34,6 +34,9 @@
 ## Tech
 * [Nvidia 2024 AI Event: Everything Revealed in 16 Minutes 📺 16min](https://www.youtube.com/watch?v=bMIRhOXAjYk) | Blackwell
 
+## Large AI Enterprises
+* [Google AI](https://ai.google/) - ai.google | Making AI helpful for everyone
+
 ## Fun
 * [This Person Does NOT Exist](https://thispersondoesnotexist.com/) - thispersondoesnotexist.com
   
