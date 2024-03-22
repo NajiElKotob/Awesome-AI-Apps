@@ -31,6 +31,9 @@
 ## Neuroscience and Biotechnology
 * [Neuralink](https://neuralink.com) - neuralink.com
 
+## AI Assistants
+* [01 Light](https://www.openinterpreter.com/01) - openinterpreter.com | The 01 Light is a voice interface for your home computer.
+
 ## Tech
 * [Nvidia 2024 AI Event: Everything Revealed in 16 Minutes 📺 16min](https://www.youtube.com/watch?v=bMIRhOXAjYk) | Blackwell
 
