@@ -40,6 +40,8 @@
 ## Large AI Enterprises
 * [Microsoft AI](https://www.microsoft.com/en-us/ai) - microsoft.com | Explore how Microsoft is empowering the world to achieve more with AI.
 * [Google AI](https://ai.google/) - ai.google | Making AI helpful for everyone
+* [IBM](https://www.ibm.com/artificial-intelligence) - ibm.com | Build the future of your business with AI solutions that you can trust
+
 
 ## Fun
 * [This Person Does NOT Exist](https://thispersondoesnotexist.com/) - thispersondoesnotexist.com
