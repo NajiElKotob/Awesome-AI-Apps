@@ -44,8 +44,14 @@
 * [Nvidia 2024 AI Event: Everything Revealed in 16 Minutes 📺 16min](https://www.youtube.com/watch?v=bMIRhOXAjYk) | Blackwell
 
 ## Large AI Enterprises
+### Microsoft
 * [Microsoft AI](https://www.microsoft.com/en-us/ai) - microsoft.com | Explore how Microsoft is empowering the world to achieve more with AI.
+  
+### Google 
 * [Google AI](https://ai.google/) - ai.google | Making AI helpful for everyone
+* [AI-enabled imaging and diagnostics previously thought impossible](https://health.google/health-research/imaging-and-diagnostics/)
+
+### IBM
 * [IBM](https://www.ibm.com/artificial-intelligence) - ibm.com | Build the future of your business with AI solutions that you can trust
 
 
