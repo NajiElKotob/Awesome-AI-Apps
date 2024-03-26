@@ -21,6 +21,8 @@
 ## Videos from Text
 * [Sora](https://openai.com/sora) - openai.com | Sora is an AI model that can create realistic and imaginative scenes from text instructions.
 * [Reface](https://reface.ai/reface/) - reface.ai | face-swap app & AI avatar generator
+* [TrueSync](https://www.flawlessai.com/) - flawlessai.com | AI powered tools for filmmakers, studios and distributors
+
   
 ## Presentations
 * [Gamma](https://gamma.app/) - gamma.app | A new medium for presenting ideas. Powered by AI.
