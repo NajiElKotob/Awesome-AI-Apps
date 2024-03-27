@@ -34,7 +34,8 @@
 * [Free AI PDF Editor](https://www.pdfgear.com/ai-pdf-editor/) - pdfgear.com | Handle PDF Tasks with the Free Generative AI-Powered PDF Editor
   - [Best FREE PDF Editor | PDFgear 📺 ~13min](https://www.youtube.com/watch?v=BHBoLRR42-A) - Kevin Stratvert
 
-
+## Gadgets
+* [lumen](https://www.red-dot.org/design-concept/news/lumen-glasses-wins-the-2021-red-dot-luminary) - red-dot.org | Glasses for the Blind by .lumen and DESIRO Vision
 
 ## Neuroscience and Biotechnology
 * [Neuralink](https://neuralink.com) - neuralink.com
