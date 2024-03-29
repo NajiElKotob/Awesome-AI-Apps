@@ -8,6 +8,7 @@
 
 ## Voice 
 * [Voice AI](https://voice.ai/) - voice.ai | Free Real Time Voice Changer
+* [Character AI](https://character.ai/) - character.ai | Personalized AI for every moment of your day
   
 ## Coding
 * [gptengineer.app](https://gptengineer.app/) - gptengineer.app | Build and iterate on interactive web apps using natural language.
