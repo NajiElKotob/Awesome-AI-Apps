@@ -63,6 +63,7 @@
 
 ## Fun
 * [This Person Does NOT Exist](https://thispersondoesnotexist.com/) - thispersondoesnotexist.com
+* [MyLens AI](https://mylens.ai/) - mylens.ai | One Timeline, Many Histories.
   
 ## AI News
 * [NVIDIA to create AI ‘agents’ that outperform human nurses](https://newatlas.com/technology/nvidia-hippocratic-ai-nurses/) - newatlas.com
