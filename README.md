@@ -49,6 +49,9 @@
 ## Tech
 * [Nvidia 2024 AI Event: Everything Revealed in 16 Minutes 📺 16min](https://www.youtube.com/watch?v=bMIRhOXAjYk) | Blackwell
 
+## Brain 🧠
+* [Neuralink](https://neuralink.com/) - neuralink.com | Create a generalized brain interface to restore autonomy to those with unmet medical needs today and unlock human potential tomorrow.
+
 ## Large AI Enterprises
 ### Microsoft
 * [Microsoft AI](https://www.microsoft.com/en-us/ai) - microsoft.com | Explore how Microsoft is empowering the world to achieve more with AI.
