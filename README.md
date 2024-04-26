@@ -56,6 +56,7 @@
 ## Large AI Enterprises
 ### Microsoft
 * [Microsoft AI](https://www.microsoft.com/en-us/ai) - microsoft.com | Explore how Microsoft is empowering the world to achieve more with AI.
+* [Saqib Shaikh : Microsoft Developer Can 'See' Using Artificial Intelligence Headset 📺](https://www.youtube.com/watch?v=y5bktGGkd9w) - Science Today (2016)
   
 ### Google 
 * [Google AI](https://ai.google/) - ai.google | Making AI helpful for everyone
