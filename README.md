@@ -51,6 +51,7 @@
 
 ## Brain 🧠
 * [Neuralink](https://neuralink.com/) - neuralink.com | Create a generalized brain interface to restore autonomy to those with unmet medical needs today and unlock human potential tomorrow.
+  - [Neuralink patient demonstrates how he plays chess using brain-chip 📺](https://www.youtube.com/watch?v=LfwzfP8cp3A) - Guardian News
 
 ## Large AI Enterprises
 ### Microsoft
