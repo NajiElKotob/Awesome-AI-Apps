@@ -65,7 +65,9 @@
 ### IBM
 * [IBM](https://www.ibm.com/artificial-intelligence) - ibm.com | Build the future of your business with AI solutions that you can trust
 
-
+## Robots
+* [The Rise of Astribot : Made in China 📺](https://www.youtube.com/watch?v=E2ATOhL4ewg)
+  
 ## Fun
 * [This Person Does NOT Exist](https://thispersondoesnotexist.com/) - thispersondoesnotexist.com
 * [MyLens AI](https://mylens.ai/) - mylens.ai | One Timeline, Many Histories.
