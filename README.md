@@ -22,6 +22,10 @@
 ## Edu
 * [Study Fetch](https://www.studyfetch.com/) - studyfetch.com | Study Fetch transforms your powerpoints, lectures, class notes, and study guides into ai study tools like flashcards, quizzes, and tests with an AI tutor.
 
+## Finance $
+* [IndexGPT](https://www.bloomberg.com/news/articles/2024-05-03/jpmorgan-unveils-indexgpt-in-next-wall-street-bid-to-tap-ai-boom) - bloomberg.com | JPMorgan Unveils IndexGPT in Next Wall Street Bid to Tap AI Boom
+
+
 ## Videos from Text
 * [Sora](https://openai.com/sora) - openai.com | Sora is an AI model that can create realistic and imaginative scenes from text instructions.
 * [Reface](https://reface.ai/reface/) - reface.ai | face-swap app & AI avatar generator
