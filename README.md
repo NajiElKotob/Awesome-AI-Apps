@@ -19,6 +19,7 @@
 * [Runway](https://runwayml.com) - runwayml.com | Runway is an applied AI research company shaping the next era of art, entertainment and human creativity.
 * [Adobe Firefly](https://www.adobe.com/products/firefly.html) - adobe.com | Your imagination’s new best friend.
 * [NVIDIA Canvas](https://www.nvidia.com/en-me/studio/canvas/) - nvidia.com | Use AI to turn simple brushstrokes into realistic landscape images. 
+* [ideogram](https://ideogram.ai/) - ideogram.ai
 
 ## Edu
 * [Study Fetch](https://www.studyfetch.com/) - studyfetch.com | Study Fetch transforms your powerpoints, lectures, class notes, and study guides into ai study tools like flashcards, quizzes, and tests with an AI tutor.
