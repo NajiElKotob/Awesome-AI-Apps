@@ -6,6 +6,10 @@
 * [Gemini](https://gemini.google.com/) - gemini.google.com
 * [Copilot](https://copilot.microsoft.com) - copilot.microsoft.com | Your everyday AI companion
 
+## AI Agent
+* [Project Astra](https://deepmind.google/technologies/gemini/project-astra/) - deepmind.google | A universal AI agent that is helpful in everyday life
+
+
 ## Voice 
 * [Voice AI](https://voice.ai/) - voice.ai | Free Real Time Voice Changer
 * [Character AI](https://character.ai/) - character.ai | Personalized AI for every moment of your day
