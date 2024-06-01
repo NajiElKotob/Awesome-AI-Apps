@@ -28,6 +28,7 @@
 
 ## Edu
 * [Study Fetch](https://www.studyfetch.com/) - studyfetch.com | Study Fetch transforms your powerpoints, lectures, class notes, and study guides into ai study tools like flashcards, quizzes, and tests with an AI tutor.
+* 
 
 ## Finance $
 * [IndexGPT](https://www.bloomberg.com/news/articles/2024-05-03/jpmorgan-unveils-indexgpt-in-next-wall-street-bid-to-tap-ai-boom) - bloomberg.com | JPMorgan Unveils IndexGPT in Next Wall Street Bid to Tap AI Boom
@@ -58,10 +59,10 @@
 * [Neuralink](https://neuralink.com) - neuralink.com
 * [AlphaFold](https://deepmind.google/technologies/alphafold/) - deepmind.google | AlphaFold is accelerating research in nearly every field of biology.
 
-
-
 ## AI Assistants
 * [01 Light](https://www.openinterpreter.com/01) - openinterpreter.com | The 01 Light is a voice interface for your home computer.
+* [Perplexity](https://www.perplexity.ai) - perplexity.ai | Perplexity is an AI search engine that provides trusted answers to any question.
+
 
 ## Tech
 * [Nvidia 2024 AI Event: Everything Revealed in 16 Minutes 📺 16min](https://www.youtube.com/watch?v=bMIRhOXAjYk) | Blackwell
