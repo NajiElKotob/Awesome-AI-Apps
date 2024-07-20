@@ -26,6 +26,11 @@
 * [ideogram](https://ideogram.ai/) - ideogram.ai
 * [Midjourney](https://www.midjourney.com/) - midjourney.com
 
+## Health
+* [PillBot](https://endiatx.com/) - endiatx.com | Wireless motorized capsule endoscope for stomach visualization
+
+
+
 ## Edu
 * [Study Fetch](https://www.studyfetch.com/) - studyfetch.com | Study Fetch transforms your powerpoints, lectures, class notes, and study guides into ai study tools like flashcards, quizzes, and tests with an AI tutor.
 * [AI Detector](https://www.scribbr.com/ai-detector/) - scribbr.com
