@@ -33,6 +33,8 @@
 ## Health
 * [PillBot](https://endiatx.com/) - endiatx.com | Wireless motorized capsule endoscope for stomach visualization
 
+## Kids
+* [Animated Drawings](https://sketch.metademolab.com/) - metademolab.com | Transform static sketches into fun animations.
 
 
 ## Edu
