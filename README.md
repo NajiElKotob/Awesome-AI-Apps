@@ -31,6 +31,10 @@
 * [ideogram](https://ideogram.ai/) - ideogram.ai
 * [Midjourney](https://www.midjourney.com/) - midjourney.com
 
+## Chip
+* [Willow](https://blog.google/technology/research/google-willow-quantum-chip/) - blog.google | Meet Willow, our state-of-the-art quantum chip
+
+
 ## Health
 * [PillBot](https://endiatx.com/) - endiatx.com | Wireless motorized capsule endoscope for stomach visualization
 
