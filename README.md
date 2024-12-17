@@ -55,7 +55,7 @@
 * [Reface](https://reface.ai/reface/) - reface.ai | face-swap app & AI avatar generator
 * [TrueSync](https://www.flawlessai.com/) - flawlessai.com | AI powered tools for filmmakers, studios and distributors
 * [Google Vids](https://workspace.google.com/products/vids/) - google.com | AI-powered video creation for work
-
+* [Veo 2](https://deepmind.google/technologies/veo/veo-2/) - deepmind.google | Our state-of-the-art video generation model
   
 ## Presentations
 * [Gamma](https://gamma.app/) - gamma.app | A new medium for presenting ideas. Powered by AI.
