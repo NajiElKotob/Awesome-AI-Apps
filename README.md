@@ -7,6 +7,7 @@
 * [Copilot](https://copilot.microsoft.com) - copilot.microsoft.com | Your everyday AI companion
 * [Llama](https://llama.meta.com/) - llama.meta.com | The open source AI model you can fine-tune, distill and deploy anywhere.
 * [Claude](https://claude.ai/) - claude.ai
+* [DeepSeek](https://www.deepseek.com) - deepseek.com
 * QwQ-32B
 
 ## AI Agent
