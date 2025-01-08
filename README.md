@@ -50,6 +50,8 @@
 ## Finance $
 * [IndexGPT](https://www.bloomberg.com/news/articles/2024-05-03/jpmorgan-unveils-indexgpt-in-next-wall-street-bid-to-tap-ai-boom) - bloomberg.com | JPMorgan Unveils IndexGPT in Next Wall Street Bid to Tap AI Boom
 
+## Gadgets
+* [Nuwa Pen](https://nuwapen.com/) - nuwapen.com | The Smartest Pen in the World
 
 ## Videos from Text
 * [Sora](https://openai.com/sora) - openai.com | Sora is an AI model that can create realistic and imaginative scenes from text instructions.
