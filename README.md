@@ -73,6 +73,7 @@
 ## Gadgets
 * [lumen](https://www.red-dot.org/design-concept/news/lumen-glasses-wins-the-2021-red-dot-luminary) - red-dot.org | Glasses for the Blind by .lumen and DESIRO Vision
 * [GENIUS X](https://www.oralb.co.uk/en-gb/product-collections/genius-x) - .oralb.co.uk | Recognizes your brushing style. Guides you to brush better every day.
+* [Halliday - AI glasses](https://hallidayglobal.com/) - hallidayglobal.com
 
 ## Neuroscience and Biotechnology
 * [Neuralink](https://neuralink.com) - neuralink.com
