@@ -101,6 +101,9 @@
 * [Google AI](https://ai.google/) - ai.google | Making AI helpful for everyone
 * [AI-enabled imaging and diagnostics previously thought impossible](https://health.google/health-research/imaging-and-diagnostics/)
 
+### Search Engines
+* [Kagi](https://kagi.com/) - kagi.com
+
 ### IBM
 * [IBM](https://www.ibm.com/artificial-intelligence) - ibm.com | Build the future of your business with AI solutions that you can trust
 
