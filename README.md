@@ -85,6 +85,9 @@
 * [Explainpaper](https://www.explainpaper.com/) - xplainpaper.com | Upload a paper, highlight confusing text, get an explanation.
 * [Rytr](https://rytr.me/) - rytr.me | Rytr is an AI writing assistant that helps you create high-quality content
 
+## Browser
+* [Operator](https://openai.com/index/introducing-operator/) - openai.com
+
 ## Tech
 * [Nvidia 2024 AI Event: Everything Revealed in 16 Minutes 📺 16min](https://www.youtube.com/watch?v=bMIRhOXAjYk) | Blackwell
 
