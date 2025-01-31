@@ -9,6 +9,7 @@
 * [Claude](https://claude.ai/) - claude.ai
 * [DeepSeek](https://www.deepseek.com) - deepseek.com
 * [Grok](https://x.ai/grok)
+* [Qween](https://chat.qwenlm.ai/) - qwenlm.ai
 * QwQ-32B
 
 ## AI Agent
