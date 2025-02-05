@@ -44,6 +44,10 @@
 ## Kids
 * [Animated Drawings](https://sketch.metademolab.com/) - metademolab.com | Transform static sketches into fun animations.
 
+## Gov
+* [GeoSpy](https://geospy.ai/) - geospy.ai | Convert pixels into actionable location intelligence using  AI 
+
+
 
 ## Edu
 * [Study Fetch](https://www.studyfetch.com/) - studyfetch.com | Study Fetch transforms your powerpoints, lectures, class notes, and study guides into ai study tools like flashcards, quizzes, and tests with an AI tutor.
