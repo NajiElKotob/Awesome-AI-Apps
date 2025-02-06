@@ -135,7 +135,7 @@
 ### Predictive Policing
 * PredPol: Predictive policing tool that forecasts crime hotspots.
 ### Records Management System (RMS)
-* Axon Records: AI-powered system for report writing and documentation.
+* [Axon Records](https://www.axon.com/products/axon-records): AI-powered system for report writing and documentation.
 ### Surveillance system
 * BriefCam: Video synopsis technology used in surveillance and monitoring.
 ### Vehicle recognition
