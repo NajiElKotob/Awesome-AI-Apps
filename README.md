@@ -126,7 +126,26 @@
 -----
 
 ## AI Police
-## Geo
-* [GeoSpy](https://geospy.ai/) - geospy.ai | Convert pixels into actionable location intelligence using  AI 
+### Geo
+* [GeoSpy](https://geospy.ai/) - geospy.ai | Convert pixels into actionable location intelligence using  AI
+### Facial Recognition
+* Clearview AI: Facial recognition system that scrapes social media for images.
+* SenseTime: Facial recognition and video analytics platform used in surveillance.
+### Predictive Policing
+* PredPol: Predictive policing tool that forecasts crime hotspots.
+### Records Management System (RMS)
+* Axon Records: AI-powered system for report writing and documentation.
+### Surveillance system
+* BriefCam: Video synopsis technology used in surveillance and monitoring.
+### Vehicle recognition
+* Vigilant Solutions: Automated license plate reader (ALPR) technology.
+* Rekor Systems: AI-powered vehicle recognition and tracking system.
+### Weapons Detection
+* SoundThinking (formerly ShotSpotter): Gunshot detection system that pinpoints shooting locations.
+### Awareness software
+* Motorola Solutions CommandCentral: Suite for real-time crime center operations.
 
+
+
+-----
 
