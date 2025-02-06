@@ -129,7 +129,7 @@
 ### Geo
 * [GeoSpy](https://geospy.ai/) - geospy.ai | Convert pixels into actionable location intelligence using  AI
 ### Facial Recognition
-* Clearview AI: Facial recognition system that scrapes social media for images.
+* [Clearview AI](https://www.clearview.ai/): Facial recognition system that scrapes social media for images.
 * SenseTime: Facial recognition and video analytics platform used in surveillance.
 ### Predictive Policing
 * PredPol: Predictive policing tool that forecasts crime hotspots.
