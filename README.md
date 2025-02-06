@@ -55,12 +55,13 @@
 ## Gadgets
 * [Nuwa Pen](https://nuwapen.com/) - nuwapen.com | The Smartest Pen in the World
 
-## Videos from Text
+## Videos
 * [Sora](https://openai.com/sora) - openai.com | Sora is an AI model that can create realistic and imaginative scenes from text instructions.
 * [Reface](https://reface.ai/reface/) - reface.ai | face-swap app & AI avatar generator
 * [TrueSync](https://www.flawlessai.com/) - flawlessai.com | AI powered tools for filmmakers, studios and distributors
 * [Google Vids](https://workspace.google.com/products/vids/) - google.com | AI-powered video creation for work
 * [Veo 2](https://deepmind.google/technologies/veo/veo-2/) - deepmind.google | Our state-of-the-art video generation model
+* OmniHuman
   
 ## Presentations
 * [Gamma](https://gamma.app/) - gamma.app | A new medium for presenting ideas. Powered by AI.
