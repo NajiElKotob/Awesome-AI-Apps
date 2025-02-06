@@ -137,7 +137,7 @@
 ### Records Management System (RMS)
 * [Axon Records](https://www.axon.com/products/axon-records): AI-powered system for report writing and documentation.
 ### Surveillance system
-* BriefCam: Video synopsis technology used in surveillance and monitoring.
+* [BriefCam](https://www.briefcam.com/): Video synopsis technology used in surveillance and monitoring.
 ### Vehicle recognition
 * Vigilant Solutions: Automated license plate reader (ALPR) technology.
 * Rekor Systems: AI-powered vehicle recognition and tracking system.
