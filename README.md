@@ -11,6 +11,7 @@
 * [Grok](https://x.ai/grok)
 * [Qween](https://chat.qwenlm.ai/) - qwenlm.ai
 * QwQ-32B
+* [Le Chat](https://chat.mistral.ai/chat)
 
 ## AI Agent
 * [Project Astra](https://deepmind.google/technologies/gemini/project-astra/) - deepmind.google | A universal AI agent that is helpful in everyday life
