@@ -14,6 +14,7 @@
 * [Le Chat](https://chat.mistral.ai/chat)
 
 ## AI Agent
+* [Neural](https://www.neural.org/) - neural.org
 * [Project Astra](https://deepmind.google/technologies/gemini/project-astra/) - deepmind.google | A universal AI agent that is helpful in everyday life
 
 
