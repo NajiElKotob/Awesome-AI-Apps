@@ -64,6 +64,7 @@
 * [Google Vids](https://workspace.google.com/products/vids/) - google.com | AI-powered video creation for work
 * [Veo 2](https://deepmind.google/technologies/veo/veo-2/) - deepmind.google | Our state-of-the-art video generation model
 * OmniHuman
+* [Goku AI](https://gokuai.org/) - gokuai.org
   
 ## Presentations
 * [Gamma](https://gamma.app/) - gamma.app | A new medium for presenting ideas. Powered by AI.
