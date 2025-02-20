@@ -127,6 +127,9 @@
 ## AI News
 * [NVIDIA to create AI ‘agents’ that outperform human nurses](https://newatlas.com/technology/nvidia-hippocratic-ai-nurses/) - newatlas.com
 
+## Quantum
+* Microsoft's Majorana 1
+  
 -----
 
 ## AI Police
