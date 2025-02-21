@@ -118,6 +118,7 @@
 
 ## Robots
 * [The Rise of Astribot : Made in China 📺](https://www.youtube.com/watch?v=E2ATOhL4ewg)
+* Optimus
 * NEO Gamma
   
 ## Fun
