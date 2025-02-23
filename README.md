@@ -159,3 +159,4 @@
 -----
 ## Movies
 * [Eagle Eye](https://www.imdb.com/title/tt1059786/) - 2008
+* [Zero Day](https://www.netflix.com/sa-en/title/81598435) - 2025 | Netflix
