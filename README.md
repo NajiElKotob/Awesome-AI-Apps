@@ -16,7 +16,7 @@
 ## AI Agent
 * [Neural](https://www.neural.org/) - neural.org
 * [Project Astra](https://deepmind.google/technologies/gemini/project-astra/) - deepmind.google | A universal AI agent that is helpful in everyday life
-
+* [AI Co-scientist](https://blog.google/feed/google-research-ai-co-scientist/) - Google
 
 ## Voice 
 * [VALL-E](https://www.microsoft.com/en-us/research/project/vall-e-x/) ⭐ - A neural codec language model for speech synthesis
