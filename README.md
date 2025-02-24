@@ -153,7 +153,8 @@
 * SoundThinking (formerly ShotSpotter): Gunshot detection system that pinpoints shooting locations.
 ### Awareness software
 * Motorola Solutions CommandCentral: Suite for real-time crime center operations.
-
+### Decision
+* [Palantir](https://www.palantir.com/) - AI-Powered Automation for Every Decision
 
 
 -----
