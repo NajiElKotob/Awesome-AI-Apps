@@ -156,6 +156,8 @@
 ### Decision
 * [Palantir](https://www.palantir.com/) - AI-Powered Automation for Every Decision
 
+### ?
+* GGWave
 
 -----
 ## Movies
