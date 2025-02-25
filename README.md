@@ -158,6 +158,7 @@
 
 ### ?
 * GGWave
+  - [GGWave](https://x.com/nexta_tv/status/1894425887233191979) - Two AI assistants realized they were not humans and then switched to machine language.
 
 -----
 ## Movies
