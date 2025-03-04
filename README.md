@@ -35,6 +35,7 @@
 * [NVIDIA Canvas](https://www.nvidia.com/en-me/studio/canvas/) - nvidia.com | Use AI to turn simple brushstrokes into realistic landscape images. 
 * [ideogram](https://ideogram.ai/) - ideogram.ai
 * [Midjourney](https://www.midjourney.com/) - midjourney.com
+* [KREA](https://www.krea.ai/) - krea.ai
 
 ## Chip
 * [Willow](https://blog.google/technology/research/google-willow-quantum-chip/) - blog.google | Meet Willow, our state-of-the-art quantum chip
