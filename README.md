@@ -164,5 +164,5 @@
 -----
 ## Movies
 * [I, Robot](https://www.imdb.com/title/tt0343818/) - 2004 | In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity.
-* [Eagle Eye](https://www.imdb.com/title/tt1059786/) - 2008
+* [Eagle Eye](https://www.imdb.com/title/tt1059786/) - 2008 | [...] using the technology of everyday life to track and control their every move.
 * [Zero Day](https://www.netflix.com/sa-en/title/81598435) - 2025 | Netflix
