@@ -132,7 +132,9 @@
 
 ## Quantum
 * Microsoft's Majorana 1
-  
+
+## AI Framework
+* [Azure AI Foundry](https://ai.azure.com/) - ai.azure.com
 -----
 
 ## AI Police
@@ -157,7 +159,9 @@
 ### Decision
 * [Palantir](https://www.palantir.com/) - AI-Powered Automation for Every Decision
 
-### ?
+-----
+
+### Stories
 * GGWave
   - [GGWave](https://x.com/nexta_tv/status/1894425887233191979) - Two AI assistants realized they were not humans and then switched to machine language.
 
