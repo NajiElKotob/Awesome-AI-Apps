@@ -166,6 +166,9 @@
   - [GGWave](https://x.com/nexta_tv/status/1894425887233191979) - Two AI assistants realized they were not humans and then switched to machine language.
 
 -----
+## People
+* [Tansu Yegen](https://x.com/TansuYegen) - Exploring the intersections of AI, startups, and the economy
+-----
 ## Movies
 * [I, Robot](https://www.imdb.com/title/tt0343818/) - 2004 | In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity.
 * [Eagle Eye](https://www.imdb.com/title/tt1059786/) - 2008 | [...] using the technology of everyday life to track and control their every move.
