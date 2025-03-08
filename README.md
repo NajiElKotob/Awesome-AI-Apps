@@ -129,6 +129,7 @@
   
 ## AI News
 * [NVIDIA to create AI ‘agents’ that outperform human nurses](https://newatlas.com/technology/nvidia-hippocratic-ai-nurses/) - newatlas.com
+* [Geoffrey Hinton: In time, AI will have self-awareness, consciousness 📺 1min](https://www.youtube.com/watch?v=LuNN32Tmc9c) - 60 Minutes
 
 ## Quantum
 * Microsoft's Majorana 1
