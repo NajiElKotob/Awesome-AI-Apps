@@ -12,6 +12,8 @@
 * [Qween](https://chat.qwenlm.ai/) - qwenlm.ai
 * QwQ-32B
 * [Le Chat](https://chat.mistral.ai/chat)
+* [Marketplace](https://github.com/marketplace) - Try, test, and deploy from a wide range of model types, sizes, and specializations.
+
 
 ## AI Agent
 * [Neural](https://www.neural.org/) - neural.org
