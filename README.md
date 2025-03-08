@@ -12,6 +12,7 @@
 * [Qween](https://chat.qwenlm.ai/) - qwenlm.ai
 * QwQ-32B
 * [Le Chat](https://chat.mistral.ai/chat)
+* [Manus](https://manus.im/) - manus.im
 * [Marketplace](https://github.com/marketplace) - Try, test, and deploy from a wide range of model types, sizes, and specializations.
 
 
