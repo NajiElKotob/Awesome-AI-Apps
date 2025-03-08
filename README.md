@@ -18,6 +18,24 @@
 * [Project Astra](https://deepmind.google/technologies/gemini/project-astra/) - deepmind.google | A universal AI agent that is helpful in everyday life
 * [AI Co-scientist](https://blog.google/feed/google-research-ai-co-scientist/) - Google
 
+## Videos
+* [Sora](https://openai.com/sora) - openai.com | Sora is an AI model that can create realistic and imaginative scenes from text instructions.
+* [Reface](https://reface.ai/reface/) - reface.ai | face-swap app & AI avatar generator
+* [TrueSync](https://www.flawlessai.com/) - flawlessai.com | AI powered tools for filmmakers, studios and distributors
+* [Google Vids](https://workspace.google.com/products/vids/) - google.com | AI-powered video creation for work
+* [Veo 2](https://deepmind.google/technologies/veo/veo-2/) - deepmind.google | Our state-of-the-art video generation model
+* OmniHuman
+* [Goku AI](https://gokuai.org/) - gokuai.org
+  
+## Images and Arts
+* [Imagine with Meta AI](https://imagine.meta.com) - imagine.meta.com
+* [Runway](https://runwayml.com) - runwayml.com | Runway is an applied AI research company shaping the next era of art, entertainment and human creativity.
+* [Adobe Firefly](https://www.adobe.com/products/firefly.html) - adobe.com | Your imagination’s new best friend.
+* [NVIDIA Canvas](https://www.nvidia.com/en-me/studio/canvas/) - nvidia.com | Use AI to turn simple brushstrokes into realistic landscape images. 
+* [ideogram](https://ideogram.ai/) - ideogram.ai
+* [Midjourney](https://www.midjourney.com/) - midjourney.com
+* [KREA](https://www.krea.ai/) - krea.ai
+  
 ## Voice 
 * [VALL-E](https://www.microsoft.com/en-us/research/project/vall-e-x/) ⭐ - A neural codec language model for speech synthesis
 * [Voice AI](https://voice.ai/) - voice.ai | Free Real Time Voice Changer
@@ -28,14 +46,13 @@
 * [gptengineer.app](https://gptengineer.app/) - gptengineer.app | Build and iterate on interactive web apps using natural language.
 * [Blackbox AI](https://www.blackbox.ai/) - blackbox.ai | BLACKBOX AI is the Best AI Model for Code. Millions of developers use Blackbox Code Chat to answer coding questions and assist them while writing code
 
-## Images and Arts
-* [Imagine with Meta AI](https://imagine.meta.com) - imagine.meta.com
-* [Runway](https://runwayml.com) - runwayml.com | Runway is an applied AI research company shaping the next era of art, entertainment and human creativity.
-* [Adobe Firefly](https://www.adobe.com/products/firefly.html) - adobe.com | Your imagination’s new best friend.
-* [NVIDIA Canvas](https://www.nvidia.com/en-me/studio/canvas/) - nvidia.com | Use AI to turn simple brushstrokes into realistic landscape images. 
-* [ideogram](https://ideogram.ai/) - ideogram.ai
-* [Midjourney](https://www.midjourney.com/) - midjourney.com
-* [KREA](https://www.krea.ai/) - krea.ai
+## AI Assistants
+* [01 Light](https://www.openinterpreter.com/01) - openinterpreter.com | The 01 Light is a voice interface for your home computer.
+* [Perplexity](https://www.perplexity.ai) - perplexity.ai | Perplexity is an AI search engine that provides trusted answers to any question.
+* [Explainpaper](https://www.explainpaper.com/) - xplainpaper.com | Upload a paper, highlight confusing text, get an explanation.
+* [Rytr](https://rytr.me/) - rytr.me | Rytr is an AI writing assistant that helps you create high-quality content
+
+----
 
 ## Chip
 * [Willow](https://blog.google/technology/research/google-willow-quantum-chip/) - blog.google | Meet Willow, our state-of-the-art quantum chip
@@ -47,7 +64,6 @@
 ## Kids
 * [Animated Drawings](https://sketch.metademolab.com/) - metademolab.com | Transform static sketches into fun animations.
 
-
 ## Edu
 * [Study Fetch](https://www.studyfetch.com/) - studyfetch.com | Study Fetch transforms your powerpoints, lectures, class notes, and study guides into ai study tools like flashcards, quizzes, and tests with an AI tutor.
 * [AI Detector](https://www.scribbr.com/ai-detector/) - scribbr.com
@@ -58,15 +74,6 @@
 ## Gadgets
 * [Nuwa Pen](https://nuwapen.com/) - nuwapen.com | The Smartest Pen in the World
 
-## Videos
-* [Sora](https://openai.com/sora) - openai.com | Sora is an AI model that can create realistic and imaginative scenes from text instructions.
-* [Reface](https://reface.ai/reface/) - reface.ai | face-swap app & AI avatar generator
-* [TrueSync](https://www.flawlessai.com/) - flawlessai.com | AI powered tools for filmmakers, studios and distributors
-* [Google Vids](https://workspace.google.com/products/vids/) - google.com | AI-powered video creation for work
-* [Veo 2](https://deepmind.google/technologies/veo/veo-2/) - deepmind.google | Our state-of-the-art video generation model
-* OmniHuman
-* [Goku AI](https://gokuai.org/) - gokuai.org
-  
 ## Presentations
 * [Gamma](https://gamma.app/) - gamma.app | A new medium for presenting ideas. Powered by AI.
 
@@ -86,12 +93,6 @@
 * [Neuralink](https://neuralink.com) - neuralink.com
 * [AlphaFold](https://deepmind.google/technologies/alphafold/) - deepmind.google | AlphaFold is accelerating research in nearly every field of biology.
 
-## AI Assistants
-* [01 Light](https://www.openinterpreter.com/01) - openinterpreter.com | The 01 Light is a voice interface for your home computer.
-* [Perplexity](https://www.perplexity.ai) - perplexity.ai | Perplexity is an AI search engine that provides trusted answers to any question.
-* [Explainpaper](https://www.explainpaper.com/) - xplainpaper.com | Upload a paper, highlight confusing text, get an explanation.
-* [Rytr](https://rytr.me/) - rytr.me | Rytr is an AI writing assistant that helps you create high-quality content
-
 ## Browser
 * [Operator](https://openai.com/index/introducing-operator/) - openai.com
 
@@ -102,20 +103,10 @@
 * [Neuralink](https://neuralink.com/) - neuralink.com | Create a generalized brain interface to restore autonomy to those with unmet medical needs today and unlock human potential tomorrow.
   - [Neuralink patient demonstrates how he plays chess using brain-chip 📺](https://www.youtube.com/watch?v=LfwzfP8cp3A) - Guardian News
 
-## Large AI Enterprises
-### Microsoft
-* [Microsoft AI](https://www.microsoft.com/en-us/ai) - microsoft.com | Explore how Microsoft is empowering the world to achieve more with AI.
-* [Saqib Shaikh : Microsoft Developer Can 'See' Using Artificial Intelligence Headset 📺](https://www.youtube.com/watch?v=y5bktGGkd9w) - Science Today (2016)
-  
-### Google 
-* [Google AI](https://ai.google/) - ai.google | Making AI helpful for everyone
-* [AI-enabled imaging and diagnostics previously thought impossible](https://health.google/health-research/imaging-and-diagnostics/)
 
 ### Search Engines
 * [Kagi](https://kagi.com/) - kagi.com
 
-### IBM
-* [IBM](https://www.ibm.com/artificial-intelligence) - ibm.com | Build the future of your business with AI solutions that you can trust
 
 ## Robots
 * [The Rise of Astribot : Made in China 📺](https://www.youtube.com/watch?v=E2ATOhL4ewg)
@@ -136,6 +127,21 @@
 
 ## AI Framework
 * [Azure AI Foundry](https://ai.azure.com/) - ai.azure.com
+
+-----
+## Large AI Enterprises
+
+### Microsoft
+* [Microsoft AI](https://www.microsoft.com/en-us/ai) - microsoft.com | Explore how Microsoft is empowering the world to achieve more with AI.
+* [Saqib Shaikh : Microsoft Developer Can 'See' Using Artificial Intelligence Headset 📺](https://www.youtube.com/watch?v=y5bktGGkd9w) - Science Today (2016)
+  
+### Google 
+* [Google AI](https://ai.google/) - ai.google | Making AI helpful for everyone
+* [AI-enabled imaging and diagnostics previously thought impossible](https://health.google/health-research/imaging-and-diagnostics/)
+
+  ### IBM
+* [IBM](https://www.ibm.com/artificial-intelligence) - ibm.com | Build the future of your business with AI solutions that you can trust
+
 -----
 
 ## AI Police
@@ -168,6 +174,7 @@
 
 -----
 ## People
+* Geoffrey Hinton
 * [Tansu Yegen](https://x.com/TansuYegen) - Exploring the intersections of AI, startups, and the economy
 -----
 ## Movies
