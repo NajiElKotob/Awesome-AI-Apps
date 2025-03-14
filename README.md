@@ -141,6 +141,7 @@
 * [Saqib Shaikh : Microsoft Developer Can 'See' Using Artificial Intelligence Headset 📺](https://www.youtube.com/watch?v=y5bktGGkd9w) - Science Today (2016)
   
 ### Google 
+* [Google AI Studio](https://aistudio.google.com/) - aistudio.google.com
 * [Google AI](https://ai.google/) - ai.google | Making AI helpful for everyone
 * [AI-enabled imaging and diagnostics previously thought impossible](https://health.google/health-research/imaging-and-diagnostics/)
 
