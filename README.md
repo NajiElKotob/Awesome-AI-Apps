@@ -115,6 +115,7 @@
 * [The Rise of Astribot : Made in China 📺](https://www.youtube.com/watch?v=E2ATOhL4ewg)
 * Optimus
 * [NEO Gamma](https://neogamma.org/) - neogamma.org | The next-generation humanoid designed for household tasks, natural interactions, and seamless mobility.
+* [Isaac GR00T N1](https://nvidianews.nvidia.com/news/nvidia-isaac-gr00t-n1-open-humanoid-robot-foundation-model-simulation-frameworks) - nvidia.com
   
 ## Fun
 * [This Person Does NOT Exist](https://thispersondoesnotexist.com/) - thispersondoesnotexist.com
