@@ -112,6 +112,7 @@
 
 
 ## Robots
+* [Spot](https://bostondynamics.com/products/spot/) - bostondynamics.com
 * [The Rise of Astribot : Made in China 📺](https://www.youtube.com/watch?v=E2ATOhL4ewg)
 * Optimus
 * [NEO Gamma](https://neogamma.org/) - neogamma.org | The next-generation humanoid designed for household tasks, natural interactions, and seamless mobility.
