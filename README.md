@@ -29,6 +29,7 @@
 * [Veo 2](https://deepmind.google/technologies/veo/veo-2/) - deepmind.google | Our state-of-the-art video generation model
 * OmniHuman
 * [Goku AI](https://gokuai.org/) - gokuai.org
+* [Reface](https://reface.ai/) - reface.ai
   
 ## Images and Arts
 * [Imagine with Meta AI](https://imagine.meta.com) - imagine.meta.com
