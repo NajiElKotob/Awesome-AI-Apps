@@ -20,6 +20,7 @@
 * [Neural](https://www.neural.org/) - neural.org
 * [Project Astra](https://deepmind.google/technologies/gemini/project-astra/) - deepmind.google | A universal AI agent that is helpful in everyday life
 * [AI Co-scientist](https://blog.google/feed/google-research-ai-co-scientist/) - Google
+* [Copilot Studio](https://copilotstudio.microsoft.com/) - copilotstudio.microsoft.com
 
 ## Videos
 * [Sora](https://openai.com/sora) - openai.com | Sora is an AI model that can create realistic and imaginative scenes from text instructions.
