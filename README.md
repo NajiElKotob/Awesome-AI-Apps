@@ -1,4 +1,4 @@
-# Awesome AI Apps
+![image](https://github.com/user-attachments/assets/c686e712-c9e6-4873-ae05-24b12c41b47c)# Awesome AI Apps
 {Awesome Works in Progress}
 
 ## LLM
@@ -40,6 +40,7 @@
 * [ideogram](https://ideogram.ai/) - ideogram.ai
 * [Midjourney](https://www.midjourney.com/) - midjourney.com
 * [KREA](https://www.krea.ai/) - krea.ai
+* [Seedream AI Image Generator](https://seedream.pro/) - seedream.pro
   
 ## Voice 
 * [VALL-E](https://www.microsoft.com/en-us/research/project/vall-e-x/) ⭐ - A neural codec language model for speech synthesis
