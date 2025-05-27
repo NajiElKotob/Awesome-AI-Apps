@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/c686e712-c9e6-4873-ae05-24b12c41b47c)# Awesome AI Apps
 {Awesome Works in Progress}
 
 ## LLM
