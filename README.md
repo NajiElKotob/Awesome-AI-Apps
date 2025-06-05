@@ -49,6 +49,10 @@
 * [Character AI](https://character.ai/) - character.ai | Personalized AI for every moment of your day
 * [ElevenLabs ](https://elevenlabs.io/) - elevenlabs.io | Create natural AI voices instantly in any language - perfect for video creators, developers, and businesses.
 
+## Transcription
+* [TurboScribe](https://turboscribe.ai/) - turboscribe.ai | Convert audio and video to accurate text in seconds.
+
+
 ## Music
 * [Mureka](https://www.mureka.ai/) - mureka.ai | AI music generator that transforms your lyrics and prompts into fully produced songs, all unlimited and royalty-free!
 
