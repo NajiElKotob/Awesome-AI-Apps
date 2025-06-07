@@ -64,13 +64,14 @@
 * [Blackbox AI](https://www.blackbox.ai/) - blackbox.ai | BLACKBOX AI is the Best AI Model for Code. Millions of developers use Blackbox Code Chat to answer coding questions and assist them while writing code
 * [Lovable](https://lovable.dev/) - lovable.dev | Create apps and websites by chatting with AI
 
-
-
 ## AI Assistants
 * [01 Light](https://www.openinterpreter.com/01) - openinterpreter.com | The 01 Light is a voice interface for your home computer.
 * [Perplexity](https://www.perplexity.ai) - perplexity.ai | Perplexity is an AI search engine that provides trusted answers to any question.
 * [Explainpaper](https://www.explainpaper.com/) - xplainpaper.com | Upload a paper, highlight confusing text, get an explanation.
 * [Rytr](https://rytr.me/) - rytr.me | Rytr is an AI writing assistant that helps you create high-quality content
+
+## Spreadsheet
+* [Rows](https://rows.com/) - rows.com | Build live data report connected to your sources and automate data analysis with AI.
 
 ----
 
