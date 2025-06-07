@@ -43,6 +43,7 @@
 * [Midjourney](https://www.midjourney.com/) - midjourney.com
 * [KREA](https://www.krea.ai/) - krea.ai
 * [Seedream AI Image Generator](https://seedream.pro/) - seedream.pro
+* [Leonardo AI](https://leonardo.ai/) - leonardo.ai | Leverage generative AI with a unique suite of tools to convey your ideas to the world.
   
 ## Voice 
 * [VALL-E](https://www.microsoft.com/en-us/research/project/vall-e-x/) ⭐ - A neural codec language model for speech synthesis
