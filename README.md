@@ -52,6 +52,8 @@
 ## Transcription
 * [TurboScribe](https://turboscribe.ai/) - turboscribe.ai | Convert audio and video to accurate text in seconds.
 
+## Translation
+* [DeepL](https://www.deepl.com/) - deepl.com
 
 ## Music
 * [Mureka](https://www.mureka.ai/) - mureka.ai | AI music generator that transforms your lyrics and prompts into fully produced songs, all unlimited and royalty-free!
