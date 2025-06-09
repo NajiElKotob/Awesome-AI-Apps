@@ -53,6 +53,7 @@
 
 ## Transcription
 * [TurboScribe](https://turboscribe.ai/) - turboscribe.ai | Convert audio and video to accurate text in seconds.
+* [Transkriptor](https://transkriptor.com/) - transkriptor.com | Accurate audio to text or video to text transcription. With Transkriptor, you can turn your audio and video files into text
 
 ## Translation
 * [DeepL](https://www.deepl.com/) - deepl.com
