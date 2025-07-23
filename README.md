@@ -15,6 +15,7 @@
 * [Manus](https://manus.im/) - manus.im
 * [Marketplace](https://github.com/marketplace) - Try, test, and deploy from a wide range of model types, sizes, and specializations.
 * [MiniMax-M1](https://minimax-m1.com/) - minimax-m1.com
+* [Bohrium](https://www.bohrium.com/) - bohrium.com | AI Academic search for scientists
 
 ## AI Agent
 * [Neural](https://www.neural.org/) - neural.org
