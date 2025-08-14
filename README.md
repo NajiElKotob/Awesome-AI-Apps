@@ -17,6 +17,7 @@
 * [MiniMax-M1](https://minimax-m1.com/) - minimax-m1.com
 * [Bohrium](https://www.bohrium.com/) - bohrium.com | AI Academic search for scientists
 * [Genspark](https://www.genspark.ai/) - genspark.ai
+* [HUMAIN](https://www.humain.ai) - humain.ai
 
 ## AI Agent
 * [Neural](https://www.neural.org/) - neural.org
