@@ -62,6 +62,9 @@
 ## Translation
 * [DeepL](https://www.deepl.com/) - deepl.com
 
+## Search
+* [AI Mode](https://search.google/ways-to-search/ai-mode/) - search.google
+
 ## Music
 * [Mureka](https://www.mureka.ai/) - mureka.ai | AI music generator that transforms your lyrics and prompts into fully produced songs, all unlimited and royalty-free!
 
