@@ -138,7 +138,8 @@
 * [Kagi](https://kagi.com/) - kagi.com
 
 
-## Robots
+## Robots+
+* ALLEX (ALL‑EXperience)
 * [CORLEO](https://hydrogenwire.com/2025/04/06/kawasaki-unveils-hydrogen-powered-corleo-robot-horse/) - Kawasaki unveils hydrogen-powered Corleo robot horse 
 * [Spot](https://bostondynamics.com/products/spot/) - bostondynamics.com
 * [The Rise of Astribot : Made in China 📺](https://www.youtube.com/watch?v=E2ATOhL4ewg)
