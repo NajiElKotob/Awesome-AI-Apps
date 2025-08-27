@@ -39,6 +39,7 @@
 * [Higgsfield AI](https://higgsfield.ai) - higgsfield.ai
   
 ## Images and Arts
+* [Gemini Flash Image](https://deepmind.google/models/gemini/image/) - deepmind.google | Bring your imagination to life
 * [Imagine with Meta AI](https://imagine.meta.com) - imagine.meta.com
 * [Runway](https://runwayml.com) - runwayml.com | Runway is an applied AI research company shaping the next era of art, entertainment and human creativity.
 * [Adobe Firefly](https://www.adobe.com/products/firefly.html) - adobe.com | Your imagination’s new best friend.
