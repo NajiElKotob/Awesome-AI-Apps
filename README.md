@@ -5,10 +5,10 @@
 * [ChatGPT](https://chat.openai.com/) - chat.openai.com
 * [Gemini](https://gemini.google.com/) - gemini.google.com
 * [Copilot](https://copilot.microsoft.com) - copilot.microsoft.com | Your everyday AI companion
+* [Grok](https://x.ai/grok)
 * [Llama](https://llama.meta.com/) - llama.meta.com | The open source AI model you can fine-tune, distill and deploy anywhere.
 * [Claude](https://claude.ai/) - claude.ai
 * [DeepSeek](https://www.deepseek.com) - deepseek.com
-* [Grok](https://x.ai/grok)
 * [Qween](https://chat.qwenlm.ai/) - qwenlm.ai
 * QwQ-32B
 * [Le Chat](https://chat.mistral.ai/chat)
