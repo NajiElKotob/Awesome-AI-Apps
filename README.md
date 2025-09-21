@@ -9,6 +9,7 @@
 * [Llama](https://llama.meta.com/) - llama.meta.com | The open source AI model you can fine-tune, distill and deploy anywhere.
 * [Claude](https://claude.ai/) - claude.ai
 * [DeepSeek](https://www.deepseek.com) - deepseek.com
+* [Phi](https://azure.microsoft.com/en-us/products/phi/) - Phi models offer cost-effective, high-performance AI solutions at the edge, pushing the boundaries of generative AI.
 * [Qween](https://chat.qwenlm.ai/) - qwenlm.ai
 * QwQ-32B
 * [Le Chat](https://chat.mistral.ai/chat)
