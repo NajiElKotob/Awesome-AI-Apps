@@ -19,6 +19,7 @@
 * [Bohrium](https://www.bohrium.com/) - bohrium.com | AI Academic search for scientists
 * [Genspark](https://www.genspark.ai/) - genspark.ai
 * [HUMAIN](https://www.humain.ai) - humain.ai
+* Baidu
 
 ## AI Agent
 * [Neural](https://www.neural.org/) - neural.org
