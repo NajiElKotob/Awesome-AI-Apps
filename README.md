@@ -66,6 +66,9 @@
 ## Translation
 * [DeepL](https://www.deepl.com/) - deepl.com
 
+## Research
+* [Consensus](https://consensus.app/) - consensus.app
+
 ## Search
 * [AI Mode](https://search.google/ways-to-search/ai-mode/) - search.google
 
