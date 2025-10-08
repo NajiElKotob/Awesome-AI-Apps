@@ -118,7 +118,7 @@
 ## Software Dev
 * [replit](https://replit.com/) - replit.com | Build software collaboratively with the power of AI, on any device, without spending a second on setup
 
-## Tools
+## PDF
 * [Free AI PDF Editor](https://www.pdfgear.com/ai-pdf-editor/) - pdfgear.com | Handle PDF Tasks with the Free Generative AI-Powered PDF Editor
   - [Best FREE PDF Editor | PDFgear 📺 ~13min](https://www.youtube.com/watch?v=BHBoLRR42-A) - Kevin Stratvert
 
