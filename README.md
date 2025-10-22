@@ -28,6 +28,11 @@
 * [AI Co-scientist](https://blog.google/feed/google-research-ai-co-scientist/) - Google
 * [Copilot Studio](https://copilotstudio.microsoft.com/) - copilotstudio.microsoft.com
 
+## Browsers
+* [Atlas](https://openai.com/index/introducing-chatgpt-atlas/) - The browser with ChatGPT built in.
+
+
+
 ## Videos
 * [Sora](https://openai.com/sora) - openai.com | Sora is an AI model that can create realistic and imaginative scenes from text instructions.
 * [Reface](https://reface.ai/reface/) - reface.ai | face-swap app & AI avatar generator
