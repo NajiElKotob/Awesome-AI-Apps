@@ -153,7 +153,7 @@
 * [Kagi](https://kagi.com/) - kagi.com
 
 
-## Robots+
+## Robots
 * ALLEX (ALL‑EXperience)
 * [CORLEO](https://hydrogenwire.com/2025/04/06/kawasaki-unveils-hydrogen-powered-corleo-robot-horse/) - Kawasaki unveils hydrogen-powered Corleo robot horse 
 * [Spot](https://bostondynamics.com/products/spot/) - bostondynamics.com
@@ -161,7 +161,8 @@
 * Optimus
 * [NEO Gamma](https://neogamma.org/) - neogamma.org | The next-generation humanoid designed for household tasks, natural interactions, and seamless mobility.
 * [Isaac GR00T N1](https://nvidianews.nvidia.com/news/nvidia-isaac-gr00t-n1-open-humanoid-robot-foundation-model-simulation-frameworks) - nvidia.com
-
+* Figure 03
+* XPENG IRON
   
 ## Fun
 * [This Person Does NOT Exist](https://thispersondoesnotexist.com/) - thispersondoesnotexist.com
