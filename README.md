@@ -75,6 +75,7 @@
 
 ## Research
 * [Consensus](https://consensus.app/) - consensus.app
+* [The AI platform  for scientific R&D (Kosmos)](https://edisonscientific.com/)
 
 ## Search
 * [AI Mode](https://search.google/ways-to-search/ai-mode/) - search.google
