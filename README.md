@@ -167,6 +167,7 @@
 * [Isaac GR00T N1](https://nvidianews.nvidia.com/news/nvidia-isaac-gr00t-n1-open-humanoid-robot-foundation-model-simulation-frameworks) - nvidia.com
 * Figure 03
 * XPENG IRON
+* ENGINEAI T800 (EngineAI Robotics)
   
 ## Fun
 * [This Person Does NOT Exist](https://thispersondoesnotexist.com/) - thispersondoesnotexist.com
