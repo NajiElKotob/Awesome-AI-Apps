@@ -27,6 +27,7 @@
 * [Project Astra](https://deepmind.google/technologies/gemini/project-astra/) - deepmind.google | A universal AI agent that is helpful in everyday life
 * [AI Co-scientist](https://blog.google/feed/google-research-ai-co-scientist/) - Google
 * [Copilot Studio](https://copilotstudio.microsoft.com/) - copilotstudio.microsoft.com
+* [Google AI Studio](https://aistudio.google.com/) - aistudio.google.com
 
 ## Browsers
 * [Atlas](https://openai.com/index/introducing-chatgpt-atlas/) - The browser with ChatGPT built in.
