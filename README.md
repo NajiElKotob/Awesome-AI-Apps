@@ -39,13 +39,16 @@
 * [Reface](https://reface.ai/reface/) - reface.ai | face-swap app & AI avatar generator
 * [TrueSync](https://www.flawlessai.com/) - flawlessai.com | AI powered tools for filmmakers, studios and distributors
 * [Google Vids](https://workspace.google.com/products/vids/) - google.com | AI-powered video creation for work
-* [Veo 2](https://deepmind.google/technologies/veo/veo-2/) - deepmind.google | Our state-of-the-art video generation model
 * OmniHuman
 * [Goku AI](https://gokuai.org/) - gokuai.org
 * [Reface](https://reface.ai/) - reface.ai
 * [Runway](https://runwayml.com/) - runwayml.com | Tools for human imagination.
 * [Hailuo AI](https://hailuoai.video/) - hailuoai.video | Transform Idea to Visual
 * [Higgsfield AI](https://higgsfield.ai) - higgsfield.ai
+* Veo
+  - [Veo 2](https://deepmind.google/technologies/veo/veo-2/) - deepmind.google | Our state-of-the-art video generation model
+  - [Google Veo 3 Tutorial: Make Cinematic AI Videos with Just a Prompt](https://www.youtube.com/watch?v=IjF5Uun2jrM) - Kevin Stratvert
+
   
 ## Images and Arts
 * [Gemini Flash Image](https://deepmind.google/models/gemini/image/) - deepmind.google | Bring your imagination to life
