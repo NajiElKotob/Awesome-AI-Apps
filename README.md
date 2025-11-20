@@ -96,6 +96,8 @@
 ## Apps
 * [Opal](https://opal.google/) - opal.google | Build, edit, and share AI mini-apps using natural language
 
+## Prototypes
+* [Stitch](https://stitch.withgoogle.com/) - stitch.withgoogle.com
 
 ## AI Assistants
 * [01 Light](https://www.openinterpreter.com/01) - openinterpreter.com | The 01 Light is a voice interface for your home computer.
