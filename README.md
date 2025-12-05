@@ -181,6 +181,10 @@
 * [This Person Does NOT Exist](https://thispersondoesnotexist.com/) - thispersondoesnotexist.com
 * [MyLens AI](https://mylens.ai/) - mylens.ai | One Timeline, Many Histories.
 * [Smile to Get a Free Coffee](https://x.com/TheFigen_/status/1813962521788977552) - X | A cafe has developed a sensor whose door only opens to people who "smile"!
+
+## Real or AI Quiz
+* [Britannica Education](https://britannicaeducation.com/blog/quiz-real-or-ai/) - britannicaeducation.com | Real or AI Quiz: Can You Tell the Difference?
+
   
 ## AI News
 * [NVIDIA to create AI ‘agents’ that outperform human nurses](https://newatlas.com/technology/nvidia-hippocratic-ai-nurses/) - newatlas.com
