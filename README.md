@@ -185,12 +185,6 @@
 ## Real or AI Quiz
 * [Britannica Education](https://britannicaeducation.com/blog/quiz-real-or-ai/) - britannicaeducation.com | Real or AI Quiz: Can You Tell the Difference?
 
-  
-## AI News
-* [NVIDIA to create AI ‘agents’ that outperform human nurses](https://newatlas.com/technology/nvidia-hippocratic-ai-nurses/) - newatlas.com
-* [Geoffrey Hinton: In time, AI will have self-awareness, consciousness 📺 1min](https://www.youtube.com/watch?v=LuNN32Tmc9c) - 60 Minutes
-* [Smart Contact Lenses: You Can Control a MicroLED Display With a Flick of Your Eyes](https://www.cnet.com/tech/computing/smart-contact-lenses-you-can-control-a-microled-display-with-a-flick-of-your-eyes) - cnet.com
-* [Toothbrushes are a cybersecurity risk, too: millions participate in DDoS attacks](https://cybernews.com/news/toothbrushes-participate-in-ddos-attacks/) - cybernews.com
 
 ## Quantum
 * Microsoft's Majorana 1
