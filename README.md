@@ -22,7 +22,7 @@
 * Baidu
 * [Bohrium](https://www.bohrium.com/) - bohrium.com
 * [MiroThinker](https://dr.miromind.ai/) - dr.miromind.ai | Research Deep. Uncover the Future
-
+* [Z.ai](https://z.ai) - z.ai
 
 ## AI Agent
 * [Neural](https://www.neural.org/) - neural.org
