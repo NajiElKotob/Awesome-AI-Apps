@@ -72,6 +72,7 @@
 * [Voice AI](https://voice.ai/) - voice.ai | Free Real Time Voice Changer
 * [Character AI](https://character.ai/) - character.ai | Personalized AI for every moment of your day
 * [ElevenLabs ](https://elevenlabs.io/) - elevenlabs.io | Create natural AI voices instantly in any language - perfect for video creators, developers, and businesses.
+* [AnveVoice](https://anvevoice.app) - anvevoice.app | Voice AI agent for websites with agentic DOM actions, MCP support, 50+ languages, <700ms latency. Free tier.
 
 ## Transcription
 * [TurboScribe](https://turboscribe.ai/) - turboscribe.ai | Convert audio and video to accurate text in seconds.
