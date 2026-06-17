@@ -104,6 +104,7 @@
 * [Stitch](https://stitch.withgoogle.com/) - stitch.withgoogle.com
 
 ## AI Assistants
+* [Remio](https://remio.ai/) - Local-first AI memory and knowledge base for retrieving personal context from files, webpages, recordings, emails, and notes.
 * [01 Light](https://www.openinterpreter.com/01) - openinterpreter.com | The 01 Light is a voice interface for your home computer.
 * [Perplexity](https://www.perplexity.ai) - perplexity.ai | Perplexity is an AI search engine that provides trusted answers to any question.
 * [Explainpaper](https://www.explainpaper.com/) - xplainpaper.com | Upload a paper, highlight confusing text, get an explanation.
