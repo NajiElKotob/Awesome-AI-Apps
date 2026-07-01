@@ -66,6 +66,7 @@
 * [Leonardo AI](https://leonardo.ai/) - leonardo.ai | Leverage generative AI with a unique suite of tools to convey your ideas to the world.
 * [Lovart](https://www.lovart.ai/) - lovart.ai | The Design Agent
 * [Illuminarty](https://app.illuminarty.ai) - illuminarty.ai | AI generated Content Detection
+* [HairWow](https://www.gohairwow.com/) - gohairwow.com | AI hairstyle try-on and hair analysis tool for previewing haircuts, bangs, beard styles, and hair colors from a selfie.
   
 ## Voice 
 * [VALL-E](https://www.microsoft.com/en-us/research/project/vall-e-x/) ⭐ - A neural codec language model for speech synthesis
