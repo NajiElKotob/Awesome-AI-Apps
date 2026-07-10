@@ -66,6 +66,7 @@
 * [Leonardo AI](https://leonardo.ai/) - leonardo.ai | Leverage generative AI with a unique suite of tools to convey your ideas to the world.
 * [Lovart](https://www.lovart.ai/) - lovart.ai | The Design Agent
 * [Illuminarty](https://app.illuminarty.ai) - illuminarty.ai | AI generated Content Detection
+* [Reve](https://app.reve.com/) - reve.com | Reve is the research lab for visual intelligence.
   
 ## Voice 
 * [VALL-E](https://www.microsoft.com/en-us/research/project/vall-e-x/) ⭐ - A neural codec language model for speech synthesis
