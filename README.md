@@ -24,6 +24,7 @@
 * [Bohrium](https://www.bohrium.com/) - bohrium.com
 * [MiroThinker](https://dr.miromind.ai/) - dr.miromind.ai | Research Deep. Uncover the Future
 * [Z.ai](https://z.ai) - z.ai
+* [Julius](https://julius.ai/) - julius.ai
 
 ## AI Agent
 * [Neural](https://www.neural.org/) - neural.org
