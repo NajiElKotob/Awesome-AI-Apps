@@ -103,6 +103,9 @@
 ## Apps
 * [Opal](https://opal.google/) - opal.google | Build, edit, and share AI mini-apps using natural language
 
+## Web
+* [threeui](https://threeui.com/) - threeui.com
+
 ## Prototypes
 * [Stitch](https://stitch.withgoogle.com/) - stitch.withgoogle.com
 
