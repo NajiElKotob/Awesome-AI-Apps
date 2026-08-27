@@ -37,7 +37,6 @@
 * [Atlas](https://openai.com/index/introducing-chatgpt-atlas/) - The browser with ChatGPT built in.
 
 
-
 ## Videos
 * [Sora](https://openai.com/sora) - openai.com | Sora is an AI model that can create realistic and imaginative scenes from text instructions.
 * [Reface](https://reface.ai/reface/) - reface.ai | face-swap app & AI avatar generator
@@ -89,6 +88,10 @@
 
 ## Search
 * [AI Mode](https://search.google/ways-to-search/ai-mode/) - search.google
+
+## Directories
+* [Useful AI](https://usefulai.com/) - usefulai.com | Independent, hands-on rankings across tools, models, and courses.
+
 
 ## Music
 * [Mureka](https://www.mureka.ai/) - mureka.ai | AI music generator that transforms your lyrics and prompts into fully produced songs, all unlimited and royalty-free!
