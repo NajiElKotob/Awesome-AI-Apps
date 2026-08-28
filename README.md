@@ -84,6 +84,7 @@
 
 ## Research
 * [Consensus](https://consensus.app/) - consensus.app
+* [IdeaHunter](https://ideahunter.today/) - ideahunter.today | AI research for startup ideas, market evidence, and MVP scope
 * [The AI platform  for scientific R&D (Kosmos)](https://edisonscientific.com/)
 
 ## Search
