@@ -53,6 +53,7 @@
   - [Google Veo 3 Tutorial: Make Cinematic AI Videos with Just a Prompt](https://www.youtube.com/watch?v=IjF5Uun2jrM) - Kevin Stratvert
 * [STARFlow-V](https://starflow-v.github.io/)
 * [Kling](https://openart.ai/video/i2v/kling)
+* [videos.social](https://videos.social/?utm_source=naji-elkotob-awesome-ai-apps&utm_medium=directory&utm_campaign=listing-wave-d) - videos.social | Turns blogs, PDFs, and prompts into editable faceless videos.
   
 ## Images and Arts
 * [Gemini Flash Image](https://deepmind.google/models/gemini/image/) - deepmind.google | Bring your imagination to life
