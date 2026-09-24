@@ -32,6 +32,7 @@
 * [AI Co-scientist](https://blog.google/feed/google-research-ai-co-scientist/) - Google
 * [Copilot Studio](https://copilotstudio.microsoft.com/) - copilotstudio.microsoft.com
 * [Google AI Studio](https://aistudio.google.com/) - aistudio.google.com
+* [Agent QA](https://vostride.com) - vostride.com | Self-improving QA agent for web and mobile app testing.
 
 ## Browsers
 * [Atlas](https://openai.com/index/introducing-chatgpt-atlas/) - The browser with ChatGPT built in.
