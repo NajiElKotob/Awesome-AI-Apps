@@ -117,6 +117,7 @@
 * [Perplexity](https://www.perplexity.ai) - perplexity.ai | Perplexity is an AI search engine that provides trusted answers to any question.
 * [Explainpaper](https://www.explainpaper.com/) - xplainpaper.com | Upload a paper, highlight confusing text, get an explanation.
 * [Rytr](https://rytr.me/) - rytr.me | Rytr is an AI writing assistant that helps you create high-quality content
+* [AI eBook Pro](https://aiebookpro.com/) - aiebookpro.com | AI eBook Pro turns a one-sentence idea into a complete eBook with chapters and a cover.
 
 ## Spreadsheet
 * [Rows](https://rows.com/) - rows.com | Build live data report connected to your sources and automate data analysis with AI.
