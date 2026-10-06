@@ -8,6 +8,7 @@
 * [Grok](https://x.ai/grok)
 * [Llama](https://llama.meta.com/) - llama.meta.com | The open source AI model you can fine-tune, distill and deploy anywhere.
 * [Claude](https://claude.ai/) - claude.ai
+* [Perplexity](https://www.perplexity.ai/) - perplexity.ai | Perplexity is an AI answer engine that researches the open web in real time and returns concise, cited answers.
 * Muse Spark
 * [DeepSeek](https://www.deepseek.com) - deepseek.com
 * [Phi](https://azure.microsoft.com/en-us/products/phi/) - Phi models offer cost-effective, high-performance AI solutions at the edge, pushing the boundaries of generative AI.
