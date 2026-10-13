@@ -145,6 +145,7 @@
 * [Nuwa Pen](https://nuwapen.com/) - nuwapen.com | The Smartest Pen in the World
 
 ## Presentations
+* [Beautiful Slides](https://www.beautiful.ai/) - beautiful.ai | A faster way to create professional presentations
 * [Gamma](https://gamma.app/) - gamma.app | A new medium for presenting ideas. Powered by AI.
 
 ## Software Dev
