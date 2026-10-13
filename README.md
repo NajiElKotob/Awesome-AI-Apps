@@ -147,6 +147,7 @@
 ## Presentations
 * [Beautiful Slides](https://www.beautiful.ai/) - beautiful.ai | A faster way to create professional presentations
 * [Gamma](https://gamma.app/) - gamma.app | A new medium for presenting ideas. Powered by AI.
+* [Canva (AI Presentations)](https://www.canva.com/create/ai-presentations/) - canva.com | Create slides in seconds with Magic Design™ for Presentations, an AI-powered tool for generating on-brand, attention-grabbing presentations.
 
 ## Software Dev
 * [replit](https://replit.com/) - replit.com | Build software collaboratively with the power of AI, on any device, without spending a second on setup
