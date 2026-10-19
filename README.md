@@ -39,7 +39,7 @@
 
 
 ## Videos
-* [Sora](https://openai.com/sora) - openai.com | Sora is an AI model that can create realistic and imaginative scenes from text instructions.
+* [Sora](https://openai.com/sora) - openai.com | Sora is an AI model that can create realistic and imaginative scenes from text instructions. | As of April 26, 2026, the Sora product is no longer available.
 * [Reface](https://reface.ai/reface/) - reface.ai | face-swap app & AI avatar generator
 * [TrueSync](https://www.flawlessai.com/) - flawlessai.com | AI powered tools for filmmakers, studios and distributors
 * [Google Vids](https://workspace.google.com/products/vids/) - google.com | AI-powered video creation for work
