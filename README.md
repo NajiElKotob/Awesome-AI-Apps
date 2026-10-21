@@ -14,7 +14,8 @@
 * [Phi](https://azure.microsoft.com/en-us/products/phi/) - Phi models offer cost-effective, high-performance AI solutions at the edge, pushing the boundaries of generative AI.
 * [Qween](https://chat.qwenlm.ai/) - qwenlm.ai
 * QwQ-32B
-* [Le Chat](https://chat.mistral.ai/chat)
+* [Mistral](https://mistral.ai/) - mistral.ai
+  - [Le Chat](https://chat.mistral.ai/chat)
 * [Manus](https://manus.im/) - manus.im
 * [Marketplace](https://github.com/marketplace) - Try, test, and deploy from a wide range of model types, sizes, and specializations.
 * [MiniMax-M1](https://minimax-m1.com/) - minimax-m1.com
