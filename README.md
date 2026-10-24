@@ -77,6 +77,7 @@
 * [Voice AI](https://voice.ai/) - voice.ai | Free Real Time Voice Changer
 * [Character AI](https://character.ai/) - character.ai | Personalized AI for every moment of your day
 * [ElevenLabs ](https://elevenlabs.io/) - elevenlabs.io | Create natural AI voices instantly in any language - perfect for video creators, developers, and businesses.
+* Dessa!
 
 ## Transcription
 * [TurboScribe](https://turboscribe.ai/) - turboscribe.ai | Convert audio and video to accurate text in seconds.
