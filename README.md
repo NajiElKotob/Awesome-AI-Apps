@@ -55,7 +55,10 @@
   - [Google Veo 3 Tutorial: Make Cinematic AI Videos with Just a Prompt](https://www.youtube.com/watch?v=IjF5Uun2jrM) - Kevin Stratvert
 * [STARFlow-V](https://starflow-v.github.io/)
 * [Kling](https://openart.ai/video/i2v/kling)
-* [OpenMontage (Open source)](https://github.com/calesthio/OpenMontage) - openmontage.video 
+* [OpenMontage (Open source)](https://github.com/calesthio/OpenMontage) - openmontage.video
+
+## World simulation
+* [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) - deepmind.google
   
 ## Images and Arts
 * [Gemini Flash Image](https://deepmind.google/models/gemini/image/) - deepmind.google | Bring your imagination to life
