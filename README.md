@@ -74,6 +74,7 @@
 * [Lovart](https://www.lovart.ai/) - lovart.ai | The Design Agent
 * [Illuminarty](https://app.illuminarty.ai) - illuminarty.ai | AI generated Content Detection
 * [Reve](https://app.reve.com/) - reve.com | Reve is the research lab for visual intelligence.
+* [EmptyRoom AI](https://emptyroomai.com) - emptyroomai.com | AI virtual staging for real estate listing photos, furnishing vacant rooms in any style at $4 per room with free restages.
   
 ## Voice 
 * [VALL-E](https://www.microsoft.com/en-us/research/project/vall-e-x/) ⭐ - A neural codec language model for speech synthesis
