@@ -40,6 +40,7 @@
 
 
 ## Videos
+* [Remotion](https://www.remotion.dev/) - remotion.dev | Make videos agentically
 * [Sora](https://openai.com/sora) - openai.com | Sora is an AI model that can create realistic and imaginative scenes from text instructions. | [As of April 26, 2026, the Sora product is no longer available.](https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation)
 * [Reface](https://reface.ai/reface/) - reface.ai | face-swap app & AI avatar generator
 * [TrueSync](https://www.flawlessai.com/) - flawlessai.com | AI powered tools for filmmakers, studios and distributors
