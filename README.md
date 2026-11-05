@@ -110,6 +110,8 @@
 * [gptengineer.app](https://gptengineer.app/) - gptengineer.app | Build and iterate on interactive web apps using natural language.
 * [Blackbox AI](https://www.blackbox.ai/) - blackbox.ai | BLACKBOX AI is the Best AI Model for Code. Millions of developers use Blackbox Code Chat to answer coding questions and assist them while writing code
 * [Lovable](https://lovable.dev/) - lovable.dev | Create apps and websites by chatting with AI
+* [OpenCode AI](https://opencode.ai/) - opencode.ai | The open source AI coding agent
+
 
 ## Apps
 * [Opal](https://opal.google/) - opal.google | Build, edit, and share AI mini-apps using natural language
