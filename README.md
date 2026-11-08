@@ -3,14 +3,16 @@
 
 ## LLM
 * [ChatGPT](https://chat.openai.com/) - chat.openai.com
+* [Claude](https://claude.ai/) - claude.ai
 * [Gemini](https://gemini.google.com/) - gemini.google.com
 * [Copilot](https://copilot.microsoft.com) - copilot.microsoft.com | Your everyday AI companion
 * [Grok](https://x.ai/grok)
-* [Llama](https://llama.meta.com/) - llama.meta.com | The open source AI model you can fine-tune, distill and deploy anywhere.
-* [Claude](https://claude.ai/) - claude.ai
-* [Perplexity](https://www.perplexity.ai/) - perplexity.ai | Perplexity is an AI answer engine that researches the open web in real time and returns concise, cited answers.
-* Muse Spark
+* [MiniMax-M1](https://minimax-m1.com/) - minimax-m1.com
 * [DeepSeek](https://www.deepseek.com) - deepseek.com
+* [Perplexity](https://www.perplexity.ai/) - perplexity.ai | Perplexity is an AI answer engine that researches the open web in real time and returns concise, cited answers.
+* [Julius](https://julius.ai/) - julius.ai
+* [Llama](https://llama.meta.com/) - llama.meta.com | The open source AI model you can fine-tune, distill and deploy anywhere.
+* Muse Spark
 * [Phi](https://azure.microsoft.com/en-us/products/phi/) - Phi models offer cost-effective, high-performance AI solutions at the edge, pushing the boundaries of generative AI.
 * [Qween](https://chat.qwenlm.ai/) - qwenlm.ai
 * QwQ-32B
@@ -18,7 +20,6 @@
   - [Le Chat](https://chat.mistral.ai/chat)
 * [Manus](https://manus.im/) - manus.im
 * [Marketplace](https://github.com/marketplace) - Try, test, and deploy from a wide range of model types, sizes, and specializations.
-* [MiniMax-M1](https://minimax-m1.com/) - minimax-m1.com
 * [Bohrium](https://www.bohrium.com/) - bohrium.com | AI Academic search for scientists
 * [Genspark](https://www.genspark.ai/) - genspark.ai
 * [HUMAIN](https://www.humain.ai) - humain.ai
@@ -26,7 +27,6 @@
 * [Bohrium](https://www.bohrium.com/) - bohrium.com
 * [MiroThinker](https://dr.miromind.ai/) - dr.miromind.ai | Research Deep. Uncover the Future
 * [Z.ai](https://z.ai) - z.ai
-* [Julius](https://julius.ai/) - julius.ai
 
 ## AI Agent
 * [Neural](https://www.neural.org/) - neural.org
