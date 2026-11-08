@@ -57,6 +57,8 @@
 * [STARFlow-V](https://starflow-v.github.io/)
 * [Kling](https://openart.ai/video/i2v/kling)
 * [OpenMontage (Open source)](https://github.com/calesthio/OpenMontage) - openmontage.video
+* [Cyanvid](https://cyanvid.com/?utm_source=najielkotob-awesome-ai-apps&utm_medium=directory&utm_campaign=backlinks) - cyanvid.com | AI video generator from text or images; credit quotes before generate
+* [Barz Studio](https://barzvideo.com/?utm_source=najielkotob-awesome-ai-apps&utm_medium=directory&utm_campaign=backlinks) - barzvideo.com | Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM
 
 ## World simulation
 * [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) - deepmind.google
