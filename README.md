@@ -57,6 +57,7 @@
 * [STARFlow-V](https://starflow-v.github.io/)
 * [Kling](https://openart.ai/video/i2v/kling)
 * [OpenMontage (Open source)](https://github.com/calesthio/OpenMontage) - openmontage.video
+* [H3 Video Generator](https://h3minimax.com/) - h3minimax.com | Browser-based text-to-video and image-to-video generation
 
 ## World simulation
 * [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) - deepmind.google
@@ -71,6 +72,7 @@
 * [Midjourney](https://www.midjourney.com/) - midjourney.com
 * [KREA](https://www.krea.ai/) - krea.ai
 * [Seedream AI Image Generator](https://seedream.pro/) - seedream.pro
+* [Seedream 5.5](https://seedream55.io/) - seedream55.io | Browser-based batch AI image generation
 * [Leonardo AI](https://leonardo.ai/) - leonardo.ai | Leverage generative AI with a unique suite of tools to convey your ideas to the world.
 * [Lovart](https://www.lovart.ai/) - lovart.ai | The Design Agent
 * [Illuminarty](https://app.illuminarty.ai) - illuminarty.ai | AI generated Content Detection
