@@ -80,6 +80,7 @@
 * [VALL-E](https://www.microsoft.com/en-us/research/project/vall-e-x/) ⭐ - A neural codec language model for speech synthesis
 * [Voice AI](https://voice.ai/) - voice.ai | Free Real Time Voice Changer
 * [Character AI](https://character.ai/) - character.ai | Personalized AI for every moment of your day
+* [Sammi: AI Girlfriend](https://sammiai.app/) - sammiai.app | Android AI character conversations with voice interaction, customization and creative roleplay.
 * [ElevenLabs ](https://elevenlabs.io/) - elevenlabs.io | Create natural AI voices instantly in any language - perfect for video creators, developers, and businesses.
 * Dessa!
 
