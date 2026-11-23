@@ -39,6 +39,8 @@
 * [Atlas](https://openai.com/index/introducing-chatgpt-atlas/) - The browser with ChatGPT built in.
 
 
+### Browser Extensions
+- [ChatSequel](https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj) - Free Chrome extension for timed ChatGPT continuation, per-tab controls, countdowns, and context handoff in long conversations.
 ## Videos
 * [Remotion](https://www.remotion.dev/) - remotion.dev | Make videos agentically
 * [Sora](https://openai.com/sora) - openai.com | Sora is an AI model that can create realistic and imaginative scenes from text instructions. | [As of April 26, 2026, the Sora product is no longer available.](https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation)
