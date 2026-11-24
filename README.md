@@ -56,6 +56,7 @@
 * [STARFlow-V](https://starflow-v.github.io/)
 * [Kling](https://openart.ai/video/i2v/kling)
 * [OpenMontage (Open source)](https://github.com/calesthio/OpenMontage) - openmontage.video
+* [makeaicreator](https://makeaicreator.com/) - makeaicreator.com | Face-consistent AI influencer photos and voiceover videos from a plain-language persona, with product placement for posts and ads. Paid.
 
 ## World simulation
 * [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) - deepmind.google
