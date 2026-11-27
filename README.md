@@ -57,6 +57,7 @@
 * [STARFlow-V](https://starflow-v.github.io/)
 * [Kling](https://openart.ai/video/i2v/kling)
 * [OpenMontage (Open source)](https://github.com/calesthio/OpenMontage) - openmontage.video
+* [RemakeThat](https://remakethat.com/) - remakethat.com | Remake winning TikTok clips as original faceless videos with an AI creator
 
 ## World simulation
 * [Genie 4: A new generation of world simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) - deepmind.google
